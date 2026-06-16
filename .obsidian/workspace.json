@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "0833f9b49634f6b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1e0c1299b86ea20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d84564cad62162b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ml_knowledge/Phase 1 - Foundations & Classical Machine Learning/Week 2 - Classification, Metrics & Model Selection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 2 - Classification, Metrics & Model Selection"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e21ac178b1eb07c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d63c66b0b667887",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8e03eb5ec30ab00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "60b06eb677aeac15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0e50985a6392ae19",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9927177a997f7c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6beb59440d443840",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "541ef6a957ffb863",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Machine_Learning_15_Weeks_Syllabus.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Machine_Learning_15_Weeks_Syllabus"
+            }
+          },
+          {
+            "id": "d60faa7c6afc04c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Machine_Learning_15_Weeks_Syllabus.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Machine_Learning_15_Weeks_Syllabus"
+            }
+          },
+          {
+            "id": "6cfe71df3c25ef40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3e1178185785c0cf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d277fa1238d0ed68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Machine_Learning_15_Weeks_Syllabus.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Machine_Learning_15_Weeks_Syllabus"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0d84564cad62162b",
+  "lastOpenFiles": [
+    "ml_knowledge/Phase 1 - Foundations & Classical Machine Learning/Week 1 - Introduction to ML & Software Engineering Basics.md",
+    "ml_knowledge/Phase 1 - Foundations & Classical Machine Learning/Week 2 - Classification, Metrics & Model Selection.md",
+    "ml_knowledge/Phase 1 - Foundations & Classical Machine Learning/Week 3 - Trees, Ensembles & Unsupervised Learning.md",
+    "ml_knowledge/Phase 5 - Capstone/Week 15 - End-to-End Capstone Project.md",
+    "Machine_Learning_15_Weeks_Syllabus.pdf",
+    "ml_knowledge/Phase 2 - Deep Learning & Unstructured Data/Week 7 - Natural Language Processing (NLP) Foundations.md",
+    "ml_knowledge/Phase 2 - Deep Learning & Unstructured Data/Week 6 - Computer Vision Advanced.md",
+    "ml_knowledge/Phase 2 - Deep Learning & Unstructured Data/Week 5 - Introduction to Deep Learning (PyTorch & FastAI).md",
+    "ml_knowledge/Phase 1 - Foundations & Classical Machine Learning/Week 4 - Software Engineering for Data Scientists.md",
+    "ml_knowledge/Home.md",
+    "ml_knowledge/Phase 4 - Production, MLOps & System Design/Week 13 - Model Deployment & Serving.md",
+    "ml_knowledge/Phase 3 - Generative AI & Application Building/Week 11 - AI Agents & Model Customization.md"
+  ]
+}
