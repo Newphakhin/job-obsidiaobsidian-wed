@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "obsidian-my-knowledge.vercel.app",
+    baseUrl: "job-obsidiaobsidian-wed.vercel.app",
     ignorePatterns: ["private", "templates", ".obsidian", "node_modules", "public", "quartz", "content", "package.json", "package-lock.json", "tsconfig.json"],
     defaultDateType: "modified",
     theme: {
